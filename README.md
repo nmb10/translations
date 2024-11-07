@@ -1,2 +1,2 @@
 # translations
-Eng-dig translations.
+SpongeBob digorian translations.
