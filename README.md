@@ -1,2 +1,1 @@
-# translations
-SpongeBob digorian translations.
+# Digorian translations
