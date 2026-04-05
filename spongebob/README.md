@@ -1,3 +1,3 @@
-# SpongeBob digorian translations.
+# SpongeBob digoron translations.
 
-SpongeBob subtitles translated to digorian.
+SpongeBob subtitles translated to digoron.
